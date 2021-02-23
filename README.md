@@ -1,7 +1,7 @@
 # Frontend-Tech-Stack
 大前端技能树v1.1
 
-![](./learning-mapv1.1.png)
+![](./learning-mapv1.2.png)
 
 PDF版本已上传
 
