@@ -1,5 +1,5 @@
 # Frontend-Tech-Stack
-大前端技能树v1.2
+大前端技能树
 
 ![](./learning-map(v1.3).png)
 
