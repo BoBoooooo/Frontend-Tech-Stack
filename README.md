@@ -1,8 +1,10 @@
 # Frontend-Tech-Stack
 大前端技能树v1.2
 
-![](./learning-mapv1.2.png)
+![](./learning-map(v1.3).png)
 
-PDF版本已上传
+脑图为MindNote制作,目前貌似只有Mac端有这个软件。
 
-脑图为MindNote制作,需要源文件的issue留一下邮箱
+.mindnode即为源文件,有需要的自行下载
+
+
